@@ -1,4 +1,4 @@
 # hello-world
 first repository
 
-Hey people, I'm a programming neub looking to learn. 
+Hello future me (the only person who will read this). I hope you learned something.
